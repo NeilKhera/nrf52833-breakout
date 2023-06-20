@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "nrf52833-breakout")(type "KiCad")(uri "${KIPRJMOD}/Libraries/nrf52833-breakout.pretty")(options "")(descr ""))
+)

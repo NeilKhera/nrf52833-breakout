@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "nRF52833-QDAA-R7")(type "KiCad")(uri "${KIPRJMOD}/Libraries/nRF52833-QDAA-R7.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62736RGYR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS62736RGYR.kicad_sym")(options "")(descr ""))
+)
